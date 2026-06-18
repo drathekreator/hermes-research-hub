@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: drathekreator.github.io/hermes-research-hub
+  baseUrl: "drathekreator.github.io/hermes-research-hub"
   ignorePatterns:
     - private
     - templates
